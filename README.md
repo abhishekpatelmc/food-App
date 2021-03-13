@@ -1,8 +1,8 @@
 # food-App
 It is a food app with the recipes with the ingriedients....
 
-<img src="img/sample1.png" width="220">       <img src="img/sample2.png" width="220">
-<img src="img/sample3.png" width="220">       <img src="img/sample4.png" width="220">
+<img src="img/sample1.png" width="210">       <img src="img/sample2.png" width="210">
+<img src="img/sample3.png" width="210">       <img src="img/sample4.png" width="210">
 
 ## Getting Started
 
